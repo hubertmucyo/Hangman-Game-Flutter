@@ -1,0 +1,150 @@
+cat|Animal
+dog|Animal
+bird|Animal
+fish|Animal
+frog|Animal
+lion|Animal
+bear|Animal
+duck|Animal
+goat|Animal
+deer|Animal
+wolf|Animal
+fox|Animal
+bat|Animal
+bee|Animal
+ant|Animal
+owl|Animal
+cow|Animal
+pig|Animal
+hen|Animal
+rat|Animal
+run|Action Word
+jump|Action Word
+play|Action Word
+read|Action Word
+sing|Action Word
+dance|Action Word
+draw|Action Word
+swim|Action Word
+clap|Action Word
+wave|Action Word
+kick|Action Word
+hop|Action Word
+skip|Action Word
+walk|Action Word
+spin|Action Word
+sleep|Action Word
+eat|Action Word
+drink|Action Word
+laugh|Action Word
+cry|Action Word
+apple|Fruit
+banana|Fruit
+grape|Fruit
+pear|Fruit
+peach|Fruit
+mango|Fruit
+berry|Fruit
+lemon|Fruit
+melon|Fruit
+kiwi|Fruit
+car|Vehicle
+bus|Vehicle
+boat|Vehicle
+train|Vehicle
+plane|Vehicle
+truck|Vehicle
+bike|Vehicle
+ship|Vehicle
+jeep|Vehicle
+van|Vehicle
+red|Color
+blue|Color
+green|Color
+yellow|Color
+pink|Color
+black|Color
+white|Color
+brown|Color
+purple|Color
+orange|Color
+sun|Nature
+moon|Nature
+star|Nature
+tree|Nature
+flower|Nature
+river|Nature
+mountain|Nature
+cloud|Nature
+rain|Nature
+snow|Nature
+ball|Toy
+doll|Toy
+kite|Toy
+block|Toy
+puzzle|Toy
+car|Toy
+drum|Toy
+horn|Toy
+whistle|Toy
+yo-yo|Toy
+house|Place
+school|Place
+park|Place
+store|Place
+beach|Place
+farm|Place
+zoo|Place
+pool|Place
+library|Place
+museum|Place
+book|Object
+pen|Object
+desk|Object
+chair|Object
+table|Object
+door|Object
+window|Object
+clock|Object
+light|Object
+phone|Object
+mom|Family
+dad|Family
+sister|Family
+brother|Family
+baby|Family
+grandma|Family
+grandpa|Family
+aunt|Family
+uncle|Family
+cousin|Family
+one|Number
+two|Number
+three|Number
+four|Number
+five|Number
+six|Number
+seven|Number
+eight|Number
+nine|Number
+ten|Number
+happy|Feeling
+sad|Feeling
+angry|Feeling
+excited|Feeling
+scared|Feeling
+proud|Feeling
+kind|Feeling
+brave|Feeling
+calm|Feeling
+silly|Feeling
+bread|Food
+milk|Food
+egg|Food
+cake|Food
+pizza|Food
+rice|Food
+soup|Food
+juice|Food
+cookie|Food
+ice cream|Food
